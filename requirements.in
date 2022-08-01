@@ -2,4 +2,4 @@
 matplotlib
 numpy==1.21.6
 cosmotransitions
-scipy
+scipy==1.7.3
