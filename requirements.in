@@ -1,5 +1,5 @@
 # requirements.in for FOPTS_with_CT
 matplotlib
-numpy
+numpy==1.21.6
 cosmotransitions
 scipy
