@@ -1,0 +1,5 @@
+# requirements.in for FOPTS_with_CT
+matplotlib
+numpy
+cosmotransitions
+scipy
